@@ -1,0 +1,2 @@
+insert into pedido (id, transacao, pagamento, cliente, nome, email) values (null, 1000, 100, 1, 'cliente 1', 'cliente1@techsage.io');
+insert into pedido (id, transacao, pagamento, cliente, nome, email) values (null, 2000, 200, 2, 'cliente 2', 'cliente2@techsage.io');
